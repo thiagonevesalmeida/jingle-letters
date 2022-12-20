@@ -6,7 +6,7 @@
 
 Projeto de fim de ano desenvolvido para o estudo de frameworks em JavaScript.
 
-[🔗 Clique aqui para acessar](https://thiagonevesalmeida.github.io/jingle-letters)
+[🔗 Clique aqui para acessar](https://thiagonevesalmeida.github.io/jingle-letters/)
 
 ## 🛠️ Tecnologias
 
