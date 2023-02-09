@@ -1,4 +1,6 @@
-# Jingle Letters
+<h1 align="center">Jingle Letters</h1>
+
+<p align="center">Send your Letter to Santa! 🎅</p>
 
 ![preview](./github/preview.png)
 
