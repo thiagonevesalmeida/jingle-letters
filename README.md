@@ -4,7 +4,7 @@
 
 > Prática Front-end: jQuery plugins
 
-Projeto de fim de ano desenvolvido para o estudo de frameworks em JavaScript.
+Projeto de fim de ano desenvolvido para o estudo de bibliotecas JavaScript.
 
 [🔗 Clique aqui para acessar](https://thiagonevesalmeida.github.io/jingle-letters/)
 
@@ -14,6 +14,7 @@ Projeto de fim de ano desenvolvido para o estudo de frameworks em JavaScript.
 - CSS
 - JavaScript
 - jQuery
+- jQuery-plugins.
 
 ## 📨 Contato
 
