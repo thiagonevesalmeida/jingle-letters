@@ -13,7 +13,7 @@
     font-family: 'Roboto', sans-serif;
 }
 
-html, body { /*Ajustando o footer no fim da página*/
+html, body {
     min-height: 100%;
 }
 
@@ -131,7 +131,7 @@ footer {
     padding: 8px;
     text-align: center;
 
-    position: absolute; /*ajustando o footer no fim da página*/
+    position: absolute; 
     width: 100%;
     bottom: 0;
 }
